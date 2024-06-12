@@ -1,0 +1,68 @@
+{
+  "Education0": [
+
+    {
+      "college": "MIT",
+      "country": "India",
+      "title": "Associate",
+      "degree": "BE",
+      "graduationYear": "2008"
+    }
+
+
+
+  ],
+  "Education1": [
+
+    {
+      "college": "BMS",
+      "country": "India",
+      "title": "M.B.A",
+      "degree": "DR",
+      "graduationYear": "2019"
+    }
+
+
+
+  ],
+  "Education2": [
+
+    {
+      "college": "CBX",
+      "country": "India",
+      "title": "M.B.A",
+      "degree": "DR",
+      "graduationYear": "2019"
+    }
+
+
+
+  ],
+
+  "Education3": [
+
+    {
+      "college": "RMIT",
+      "country": "Australia",
+      "title": "M.B.A",
+      "degree": "DR",
+      "graduationYear": "2019"
+    }
+
+
+
+  ],
+  "Education5": [
+
+    {
+      "college": "////*Monash!@!@",
+      "country": "",
+      "title": "M.B.A",
+      "degree": "DR",
+      "graduationYear": "2020"
+    }
+
+
+
+  ]
+}
