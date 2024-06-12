@@ -1,0 +1,10 @@
+{
+  "loginTests": [
+    {
+      "username": "dhanushreeak@gmail.com",
+      "password": "March@2024",
+      "expectedResult": "Login successful"
+    }
+  ]
+
+}
